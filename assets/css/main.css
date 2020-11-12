@@ -79,7 +79,7 @@ html {
 }
 
 body {
-    color: #212931;
+    color: white;
 }
 
 body,
@@ -115,9 +115,26 @@ i {
     font-style: italic;
 }
 
+p#vision {
+    width: 100vw !important;
+}
+
 p {
-    text-align: justify;
-    margin: 0 0 2rem 0;
+    text-align: justify!important;
+    margin: 0 0 2rem 0!important;
+    width: 256px!important;
+    word-wrap: break-all!important;
+}
+
+div.description {
+    margin: 1rem
+}
+
+.bios {
+    background-color: inherit;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
 }
 
 h1,
@@ -265,3 +282,15 @@ h5,
 h6 {
     color: white;
 }
+
+#image img {
+    display: block;
+    margin: 4rem 0;
+    width: 128px;
+    height: 128px
+}
+
+
+/*  
+style="width:128px;height:128px;"
+*/
