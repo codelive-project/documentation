@@ -234,6 +234,7 @@ pre code {
 hr {
     border: 0;
     border-bottom: solid 2px;
+    border-color: #1e252d;
     margin: 3rem 0;
 }
 
