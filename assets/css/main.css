@@ -2,6 +2,7 @@ body {
     line-height: 1;
 }
 
+
 ol,
 ul {
     list-style: none;
@@ -122,12 +123,12 @@ p#vision {
 p {
     text-align: justify!important;
     margin: 0 0 2rem 0!important;
-    width: 256px!important;
+    width: 256px!important; /* */
     word-wrap: break-all!important;
 }
 
 div.description {
-    margin: 1rem
+    margin: 3rem
 }
 
 .bios {
