@@ -18,8 +18,8 @@ export const backgroundStyle = {
 };
 
 export const CardBodyStyle1 = {
-  marginLeft: "10rem",
-  marginRight: "10rem",
+  marginLeft: "5rem",
+  marginRight: "5rem",
   color: "white",
 };
 
