@@ -1,6 +1,6 @@
 {
-  "name": "codelive-website",
-  "homepage": "http://ekm6.github.io/codelive-project",
+  "name": "documentation",
+  "homepage": "https://codelive-project.github.io/documentation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
