@@ -71,9 +71,9 @@ export default class Members extends Component {
                     <strong>Enoch Mwesigwa:</strong>
                     <br/>
                     <br/>
-                    I’ve seen how useful systems simialr to Codlive are for
+                    I’ve seen how useful systems simialr to Codelive are for
                     collaboration and productivity. I’m excited to be a part of
-                    the team that brings it to the Calvin CS depaartment and
+                    the team that brings it to the Calvin CS department and
                     Thonny.
                   </p>
                 </Col>
