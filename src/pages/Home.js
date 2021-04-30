@@ -34,7 +34,7 @@ export default class Home extends Component {
           <Accordion>
             <Vison />
             <DesignNorms />
-            <Members/>
+            <MembersCarousel/>
             <AdditionalResources/>
           </Accordion>
         </Container>

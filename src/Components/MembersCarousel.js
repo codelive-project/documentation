@@ -34,7 +34,7 @@ export default class MembersCarousel extends Component {
                 <Image
                   src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/brad_photo.jpg"
                  style={ImageStyle1}
-                  rounded
+                 rounded
                 />
 
                 <Carousel.Caption>
