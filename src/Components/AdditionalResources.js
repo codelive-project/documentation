@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { H2Style, CardBodyStyle1, SectionStyle1 } from "../Helpers/stlyes";
+import { H2Style, CardBodyStyle1, SectionStyle1 } from "../Helpers/styles";
 
 export default class AdditionalResources extends Component {
   constructor(props) {

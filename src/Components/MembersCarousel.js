@@ -12,7 +12,7 @@ import {
   ImageStyle1,
   CardBodyStyle1,
   SectionStyle1,
-} from "../Helpers/stlyes";
+} from "../Helpers/styles";
 
 export default class MembersCarousel extends Component {
   constructor(props) {
@@ -29,12 +29,12 @@ export default class MembersCarousel extends Component {
         </Card.Header>
         <Accordion.Collapse eventKey="2">
           <Card.Body style={CardBodyStyle1}>
-            <Carousel>
-              <Carousel.Item>
+            <Carousel style={{padding: 0, margin: '0 auto'}}>
+              <Carousel.Item style={{padding: 0, margin: '0 auto'}}>
                 <Image
-                  src="../../assets/images/brad_photo.jpg"
-                  style={ImageStyle1}
-                  thumbnail
+                  src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/brad_photo.jpg"
+                 style={ImageStyle1}
+                  rounded
                 />
 
                 <Carousel.Caption>
@@ -49,9 +49,9 @@ export default class MembersCarousel extends Component {
               </Carousel.Item>
               <Carousel.Item>
                 <Image
-                  src="../../assets/images/sam_photo.jpeg"
+                  src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/sam_photo.jpeg"
                   style={ImageStyle1}
-                  thumbnail
+                  rounded
                 />
                 <Carousel.Caption>
                   <h3>Samuel Zeleke</h3>
@@ -64,9 +64,9 @@ export default class MembersCarousel extends Component {
               </Carousel.Item>
               <Carousel.Item>
                 <Image
-                  src="../../assets/images/enoch_photo.jpg"
+                  src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/enoch_photo.jpg"
                   style={ImageStyle1}
-                  thumbnail
+                  rounded
                 />
                 <Carousel.Caption>
                   <h3>Enoch Mwesigwa</h3>

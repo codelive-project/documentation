@@ -10,7 +10,7 @@ import DesignNorms from "../Components/DesignNorms";
 import Members from "../Components/Members";
 import AdditionalResources from "../Components/AdditionalResources";
 import MembersCarousel from "../Components/MembersCarousel";
-import { H1Style, backgroundStyle } from "../Helpers/stlyes";
+import { H1Style, backgroundStyle } from "../Helpers/styles";
 
 export default class Home extends Component {
   constructor(props) {

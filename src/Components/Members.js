@@ -11,7 +11,7 @@ import {
   ImageStyle1,
   CardBodyStyle1,
   SectionStyle1,
-} from "../Helpers/stlyes";
+} from "../Helpers/styles";
 
 export default class Members extends Component {
   constructor(props) {
@@ -32,7 +32,7 @@ export default class Members extends Component {
               <Row>
                 <Col xs={6} md={4}>
                   <Image
-                    src="../../assets/images/brad_photo.jpg"
+                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/brad_photo.jpg"
                     thumbnail
                   />
                   <br/>
@@ -47,7 +47,7 @@ export default class Members extends Component {
                 </Col>
                 <Col xs={6} md={4}>
                   <Image
-                    src="../../assets/images/sam_photo.jpeg"
+                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/sam_photo.jpeg"
                     thumbnail
                   />
                   <br/>
@@ -63,7 +63,7 @@ export default class Members extends Component {
                 </Col>
                 <Col xs={6} md={4}>
                   <Image
-                    src="../../assets/images/enoch_photo.jpg"
+                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/enoch_photo.jpg"
                     thumbnail
                   />
                   <br/><br/>

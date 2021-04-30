@@ -29,7 +29,11 @@ export const SectionStyle1 = {
   paddingRight: "5rem",
 };
 
-export const ImageStyle1 ={
-    width: '24rem',
-    height: '24rem',
-}
+export const ImageStyle1 = {
+  width: "25rem",
+  height: "24rem",
+  marginLeft: "25%", /*important */
+  marginRight: "25%"
+  //MarginRight: "-9999rem" /*important */,
+ // margin: "0 auto" /*important */,
+};
