@@ -21,7 +21,7 @@ export default class AdditionalResources extends Component {
           <Card.Body style={CardBodyStyle1}>
             <ul>
               <li>
-                <a href="#">Final Presentation</a>
+                <a href="https://github.com/codelive-project/documentation/blob/main/build/assets/videos/PresentationVid.mp4?">Final Presentation</a>
               </li>
               <li>
                 <a href="#">Final Report</a>

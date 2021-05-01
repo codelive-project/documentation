@@ -32,7 +32,7 @@ export default class Members extends Component {
               <Row>
                 <Col xs={6} md={4}>
                   <Image
-                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/brad_photo.jpg"
+                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/build/assets/images/brad_photo.jpg"
                     thumbnail
                   />
                   <br/>
@@ -47,7 +47,7 @@ export default class Members extends Component {
                 </Col>
                 <Col xs={6} md={4}>
                   <Image
-                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/sam_photo.jpeg"
+                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/build/assets/images/sam_photo.jpeg"
                     thumbnail
                   />
                   <br/>
@@ -63,7 +63,7 @@ export default class Members extends Component {
                 </Col>
                 <Col xs={6} md={4}>
                   <Image
-                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/public/assets/images/enoch_photo.jpg"
+                    src="https://raw.githubusercontent.com/codelive-project/documentation/main/build/assets/images/enoch_photo.jpg"
                     thumbnail
                   />
                   <br/><br/>
