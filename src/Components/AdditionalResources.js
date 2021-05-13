@@ -24,10 +24,7 @@ export default class AdditionalResources extends Component {
                 <a href="https://vimeo.com/543976965">Final Presentation</a>
               </li>
               <li>
-                <a href="#">Final Report</a>
-              </li>
-              <li>
-                <a href="#">Research Paper</a>
+                <a href="https://docs.google.com/document/d/14D_fQykQDDAdLssdBUcqKjvjvzsJZkPkFV2JopsqmbM/edit?usp=sharing">Final Report (Magpi Submission)</a>
               </li>
               <li>
                 <a href="https://github.com/codelive-project">
